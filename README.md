@@ -4,7 +4,7 @@
 
 ### I'm Jason-wq
 
-- 某一本大学软件工程专业大三在校生
+- 某一本大学软件工程大三在校生
 
 - 💬 扣扣邮箱，欢迎一起讨论学习 [2240015382@qq.com](mailto:2240015382@qq.com)
 - ⭐ [博客园](https://www.cnblogs.com/weixiao1717/)
@@ -27,7 +27,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
+- [基于springboot的分布式架构的众筹平台](https://github.com/JoeyBling/bootplus)
 - [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
 - [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
 - [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
@@ -39,9 +39,7 @@
 - [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
 
 ### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+- [博客园](https://www.cnblogs.com/weixiao1717/)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jason-wq&show_icons=true&theme=radical&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
