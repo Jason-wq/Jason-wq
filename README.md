@@ -28,15 +28,7 @@
 
 ### 开源项目
 - [基于springboot的分布式架构的众筹平台](https://github.com/JoeyBling/bootplus)
-- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
-- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
-- [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
-- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
-- [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
-- [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
-- [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
-- [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
-- [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
+- [✏️✏️Java软件工程师简历](https://hackhu2019.github.io/resume/)
 
 ### 关于我
 - [博客园](https://www.cnblogs.com/weixiao1717/)
