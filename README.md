@@ -28,7 +28,7 @@
 
 ### 开源项目
 - [基于springboot的分布式架构的众筹平台](https://github.com/JoeyBling/bootplus)
-- [✏️✏️Java软件工程师简历](https://hackhu2019.github.io/resume/)
+- [✏️✏️Java软件工程师简历](https://Jason-wq.github.io/resume/)
 
 ### 关于我
 - [博客园](https://www.cnblogs.com/weixiao1717/)
