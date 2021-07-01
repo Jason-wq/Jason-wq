@@ -27,7 +27,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [基于springboot的分布式架构的众筹平台](https://github.com/JoeyBling/bootplus)
+- [基于springboot的分布式架构的众筹平台](https://github.com/Jason-wq/crowd_founding)
 - [✏️✏️Java软件工程师简历](https://Jason-wq.github.io/resume/)
 
 ### 关于我
