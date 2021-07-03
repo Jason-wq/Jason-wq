@@ -28,6 +28,7 @@
 
 ### 开源项目
 - [基于springboot的分布式架构的众筹平台](https://github.com/Jason-wq/crowd_founding)
+- [基于yolov5和deepsort实现行人追踪](https://github.com/Jason-wq/pedestrianTracking)
 - [✏️✏️Java软件工程师简历](https://Jason-wq.github.io/resume/)
 
 ### 关于我
